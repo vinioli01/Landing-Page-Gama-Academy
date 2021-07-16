@@ -25,7 +25,7 @@ header {
 }
 .imgbody {
 	/* margin: 0 0 0 0; */
-	position: absolute;
+	position: relative;
 	background-attachment:fixed;
 	background-size: 100%;
 	padding: 0 0 0 55%;
