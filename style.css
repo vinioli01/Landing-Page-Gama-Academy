@@ -1,0 +1,110 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+header {
+	background: url("assets/bg.jpg");
+	padding: 20px 0;
+	
+	
+}
+
+.imghead {
+	position: relative;
+	margin: 0%;
+	display: flex;
+	flex-direction: row;
+	padding: 0.5% 0 0 1% ;
+}
+.imgbody {
+	margin: 0 0 0 800px;
+	position: absolute;
+}
+
+
+
+footer {
+	text-align: center;
+	background: url("assets/bg.jpg");
+	padding: 40px 0;
+}
+.footer {
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.footerimg{
+    padding: 0 0 0 32%;
+}
+
+.promofooter {
+    display: flex;
+    flex-direction: row;
+}
+
+.textpromofooter{
+    padding: 0 0 0 30%;
+    margin-top: 6%;
+    margin-bottom: 4%;
+   	flex-direction: column;
+	color: red;
+
+}
+
+.copyright {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
+
+
+form {
+	margin: 40px 50px 0;
+}
+
+form label, form legend {
+	display:block;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 50%;
+}
+
+.checkbox {
+	margin: 20px 0;
+}
+
+.cadastro {
+	margin: 0 0 40px 0;
+	width:40%;
+	padding: 15px 0;
+	background: black;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.cadastro:hover {
+	background: grey;
+	transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
