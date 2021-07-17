@@ -24,17 +24,14 @@ header {
 	width: 24%;
 }
 .imgbody {
-	/* margin: 0 0 0 0; */
+	/* margin: 0 0 0 2%; */
 	position: relative;
 	background-attachment:fixed;
 	background-size: 100%;
-	padding: 0 0 0 55%;
+	padding: 0 0 0 3%;
+	display: flex;
 	
 }
-
-
-
-
 .footer {
     
     display: flex;
@@ -48,7 +45,6 @@ header {
 	position: absolute;
 	margin: 0;
 	border: 0;
-	justify-content:center;
 	
 }
 
@@ -84,8 +80,6 @@ header {
 	position: relative;
 
 }
-
-
 form {
 	margin: 40px 50px 0;
 }
@@ -101,7 +95,7 @@ form label, form legend {
 	display: block;
 	margin: 0 0 20px;
 	padding: 10px 25px;
-	width: 50%;
+	width: 47%;
 	
 }
 
